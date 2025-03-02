@@ -1,0 +1,149 @@
+{
+  "emission_reduction_actions": [
+    {
+      "action": "Using Trillium, Google's sixth-generation Tensor Processing Unit (TPU)",
+      "details": "Trillium is over 67% more energy-efficient than TPU v5e.",
+      "impact": "67% more energy-efficient than TPU v5e",
+      "timeline": null,
+      "status": "current"
+    },
+    {
+      "action": "Implementing practices to reduce energy required to train AI models",
+      "details": "Identified tested practices that can reduce the energy required to train an AI model.",
+      "impact": "Up to 100 times reduction in energy and up to 1,000 times reduction in emissions",
+      "timeline": null,
+      "status": "current"
+    },
+    {
+      "action": "Using Fuel-efficient routing in Google Maps",
+      "details": "AI analyzes traffic, terrain, and a vehicle’s engine to suggest the most efficient route.",
+      "impact": "Enabled more than 2.9 million metric tons of GHG emissions reductions since the feature launched in late 2021 to the end of 2023",
+      "timeline": "Launched late 2021",
+      "status": "current"
+    },
+    {
+      "action": "Optimizing traffic lights with Green Light",
+      "details": "An AI-based tool that helps city traffic engineers optimize the timing of traffic lights to reduce stop-and-go traffic and fuel consumption.",
+      "impact": "Potential for up to 30% reduction in stops and up to 10% reduction in emissions at intersections",
+      "timeline": null,
+      "status": "current"
+    },
+    {
+      "action": "Implementing a Google Renewable Energy Addendum",
+      "details": "Asking largest hardware manufacturing suppliers to commit to achieving a 100% renewable energy match.",
+      "impact": "N/A",
+      "timeline": "By 2029",
+      "status": "planned"
+    },
+    {
+      "action": "Developing contrail forecast maps using AI-based predictions",
+      "details": "Working with the airline industry to allow pilots and airlines to optimize routes that avoid creating climate-warming contrails.",
+      "impact": "In one trial consisting of 70 test flights, use of the predictive technology reduced contrails by 54%",
+      "timeline": null,
+      "status": "current"
+    },
+    {
+      "action": "Nest thermostats use machine learning to help people save energy and money at home",
+      "details": "Nest thermostats helped customers save more than 20 billion kWh of energy",
+      "impact": "Approximately 7 million metric tons of GHG emissions reductions",
+      "timeline": "2023",
+      "status": "current"
+    },
+    {
+      "action": "Using AI to provide detailed rooftop solar potential data",
+      "details": "Providing data on solar potential, high resolution rooftop imagery, and financial insights to customers and partners.",
+      "impact": "N/A",
+      "timeline": null,
+      "status": "current"
+    },
+    {
+      "action": "Improving the grid planning process by applying and enhancing GraphCast",
+      "details": "AI model designed for fast and accurate global weather forecasting.",
+      "impact": "Tapestry and GraphCast’s collaborative model outperformed the state-of-the-art model, the European Centre for Medium-Range Weather Forecasts’ HRES, by up to 15%",
+      "timeline": null,
+      "status": "current"
+    },
+    {
+      "action": "Speeding up AI model training through techniques like quantization",
+      "details": "Boosting large-language model training efficiency on Cloud TPU v5e.",
+      "impact": "39% boost in efficiency",
+      "timeline": null,
+      "status": "current"
+    },
+    {
+      "action": "Improving the power efficiency of AI hardware",
+      "details": "TPU v4 was 2.7 times more energy efficient than our TPU v3",
+      "impact": "TPU v4 was 2.7 times more energy efficient than our TPU v3",
+      "timeline": null,
+      "status": "current"
+    },
+    {
+      "action": "Offering Nvidia’s next-generation Blackwell GPU to Cloud customers",
+      "details": "Nvidia estimates will train large models using 75% less power than older GPUs to complete the same task.",
+      "impact": "75% less power than older GPUs",
+      "timeline": null,
+      "status": "planned"
+    },
+    {
+      "action": "Using Google Axion Processors",
+      "details": "Google Axion Processors are up to 60% more energy efficient than comparable current-generation x86-based instances.",
+      "impact": "up to 60% more energy efficient",
+      "timeline": null,
+      "status": "current"
+    },
+    {
+      "action": "Fuel-efficient routing in Google Maps",
+      "details": "Analyzes traffic, terrain, and vehicle engine type to find the most efficient route, potentially reducing stops for gas engines, favoring highway speeds for diesel vehicles, and maximizing downhill stretches for electric cars to boost regenerative braking.",
+      "impact": "Estimated to have helped enable more than 2.9 million metric tons of GHG emissions reductions since late 2021.",
+      "timeline": "Launched in late 2021, rolled out to India and Indonesia in 2023.",
+      "status": "current"
+    },
+    {
+      "action": "Green Light AI tool for traffic optimization",
+      "details": "Measures driving trends at intersections and develops recommendations for city traffic engineers to optimize traffic light timing to reduce stop-and-go traffic.",
+      "impact": "Potential to reduce stops by up to 30% and reduce emissions at intersections by up to 10%. Recommendations in implemented cities can save fuel and lower emissions for up to 32 million car rides monthly.",
+      "timeline": "Recommendations implemented in 12 cities across four continents in 2023.",
+      "status": "current"
+    },
+    {
+      "action": "Contrail mitigation through AI-based tool",
+      "details": "Developed an AI-based tool to predict where contrails will form and shares insights with the aviation community to safely reroute planes to reduce contrail formation.",
+      "impact": "In one trial consisting of 70 test flights, use of the predictive technology reduced contrails by 54%.",
+      "timeline": "Partnership with EUROCONTROL to test contrail avoidance technology in dense European airspace.",
+      "status": "planned"
+    },
+    {
+      "action": "Electrifying office portfolio",
+      "details": "Retrofitting existing building systems, incorporating electrification standards into new developments (such as designing all-electric kitchens), and working with property owners on lease terms that support building electrification.",
+      "impact": "Not specified",
+      "timeline": "Completed 14 full or partial office building electrification projects around the world in 2023.",
+      "status": "current"
+    },
+    {
+      "action": "Incorporating electric shuttle buses into the shuttle fleet",
+      "details": "Increased the electric vehicles in the shuttle fleet to 14%.",
+      "impact": "Not specified",
+      "timeline": "2023",
+      "status": "current"
+    },
+    {
+      "action": "Developing and deploying cooling solutions that include natural, low-GWP refrigerants at data centers",
+      "details": "Not specified",
+      "impact": "Not specified",
+      "timeline": "2023",
+      "status": "current"
+    },
+    {
+      "action": "Piloting renewable diesel in select U.S. and European data centers",
+      "details": "Using renewable diesel for data center backup power and some non-electric vehicles in the corporate fleet.",
+      "impact": "Lower life cycle carbon emissions compared to fossil fuels.",
+      "timeline": "2023",
+      "status": "current"
+    }
+  ],
+  "total_unique_actions": 20,
+  "company": "google-2024-environmental-report",
+  "source_file": "reports\\google-2024-environmental-report.pdf",
+  "chunks_processed": 2,
+  "total_chunks": 8
+}

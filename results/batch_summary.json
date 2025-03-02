@@ -1,0 +1,10 @@
+{
+  "total_reports": 2,
+  "successful_reports": 2,
+  "failed_reports": 0,
+  "companies": [
+    "apple",
+    "google-2024-environmental-report"
+  ],
+  "total_actions": 54
+}

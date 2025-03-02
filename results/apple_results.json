@@ -1,0 +1,247 @@
+{
+  "emission_reduction_actions": [
+    {
+      "action": "Transitioning supply chain to renewable electricity",
+      "details": "Transitioning our supply chain to renewable electricity",
+      "impact": "Avoided over 28 million metric tons of emissions",
+      "timeline": null,
+      "status": "ongoing"
+    },
+    {
+      "action": "Sourcing recycled content for products",
+      "details": "Sourcing recycled content for our products",
+      "impact": "Avoided over 28 million metric tons of emissions",
+      "timeline": null,
+      "status": "ongoing"
+    },
+    {
+      "action": "Transitioning to 100 percent renewable electricity for Apple facilities",
+      "details": "Sourcing 100 percent renewable electricity for Apple facilities",
+      "impact": "Reduced scope 1 and scope 2 emissions by 67 percent since 2011",
+      "timeline": "Achieved in 2018",
+      "status": "completed"
+    },
+    {
+      "action": "Implementing energy efficiency initiatives",
+      "details": "Implementing energy efficiency initiatives",
+      "impact": "Reduced scope 1 and scope 2 emissions by 67 percent since 2011",
+      "timeline": "Since April 2020",
+      "status": "ongoing"
+    },
+    {
+      "action": "Using recycled CNC chips with Apple’s strongest aluminum alloy",
+      "details": "Using recycled CNC chips with Apple’s strongest aluminum alloy for the first time.",
+      "impact": null,
+      "timeline": "2022",
+      "status": "current"
+    },
+    {
+      "action": "Deploying own server design in data centers",
+      "details": "Deploying our own server design, developed with a focus on energy and computing efficiency",
+      "impact": "Resulting in over 56.7 million kilowatt-hours per year in energy savings",
+      "timeline": "2022",
+      "status": "current"
+    },
+    {
+      "action": "Developing a specification requiring servers to be powered by high-efficiency power supplies",
+      "details": "Developing a specification requiring our servers to be powered by high-efficiency power supplies exceeding even the efficiency requirements for ENERGY STAR certification",
+      "impact": "Resulting in over 4 million kilowatt-hours per year in energy savings",
+      "timeline": "2021",
+      "status": "completed"
+    },
+    {
+      "action": "Prioritizing reducing natural gas usage and replacing natural gas equipment with electrical equipment",
+      "details": "Prioritizing reducing natural gas usage and replacing natural gas equipment with electrical equipment",
+      "impact": null,
+      "timeline": null,
+      "status": "ongoing"
+    },
+    {
+      "action": "Using recycled water for cooling systems and toilet flushing in Austin campus",
+      "details": "Cooling system will be supplied with recycled water, which will also be used for toilet flushing.",
+      "impact": "Saving 5.7 million kilowatt-hours per year.",
+      "timeline": null,
+      "status": "current"
+    },
+    {
+      "action": "Installed water-cooled air-conditioning system in Austin campus",
+      "details": "Replaced air-cooled system with a water-cooled system for increased energy efficiency. The cooling system is supplied with recycled water, which is also used for toilet flushing.",
+      "impact": "Saving 5.7 million kilowatt-hours per year.",
+      "timeline": "Completed first phase",
+      "status": "completed"
+    },
+    {
+      "action": "Cools Reno data center with outside air",
+      "details": "Takes advantage of the mild climate by cooling its servers with outside air whenever possible.",
+      "impact": null,
+      "timeline": "Opened in 2012",
+      "status": "current"
+    },
+    {
+      "action": "Implemented efficiency measures in European retail stores",
+      "details": "Established a task force to exceed energy mandates, identifying and rolling out additional measures related to LED lighting, temperature, and keeping doors closed.",
+      "impact": null,
+      "timeline": "2022",
+      "status": "completed"
+    },
+    {
+      "action": "Developed energy tracking and benchmarking system",
+      "details": "Includes data from utility meters that continuously monitor 15-minute electricity and daily natural gas energy consumption to identify performance issues and take corrective action.",
+      "impact": null,
+      "timeline": "Ongoing",
+      "status": "current"
+    },
+    {
+      "action": "Implemented energy efficiency program",
+      "details": "Adjustments made to 9.3 million square feet of new and existing buildings, including data centers.",
+      "impact": "Avoided 69.4 million kilowatt-hours of electricity and 161,000 therms of natural gas per year, reducing total energy use by 4 percent and avoiding an additional 27,500 metric tons of CO2e per year.",
+      "timeline": "2022",
+      "status": "completed"
+    },
+    {
+      "action": "Supplier Energy Efficiency Program",
+      "details": "Helps suppliers optimize their energy use by identifying optimization opportunities, designing solutions through assessments, and providing education and training opportunities.",
+      "impact": null,
+      "timeline": "Launched in 2015",
+      "status": "current"
+    },
+    {
+      "action": "Invested in supplier efficiency projects using the Asia Green Fund",
+      "details": "Provided energy efficiency expertise and finance capital-intensive energy efficiency projects.",
+      "impact": "$8.9 million of investments",
+      "timeline": "2022",
+      "status": "completed"
+    },
+    {
+      "action": "Supplier Energy Efficiency Program participation",
+      "details": "More than 100 supplier facilities participated in our energy efficiency program.",
+      "impact": "Achieved over 1.6 billion kilowatt-hours of electricity savings and about 2,039,000 MMBtu in additional energy savings, which together avoided over 1.3 million metric tons of CO2e, representing a 17 percent increase since 2021.",
+      "timeline": "2022",
+      "status": "completed"
+    },
+    {
+      "action": "Requires suppliers to measure and report emissions",
+      "details": "Since 2019, as part of Apple’s Supplier Code of Conduct, suppliers are required to regularly identify sources of emissions, measure their scope 1 and scope 2 carbon emissions, and make this information available to Apple.",
+      "impact": null,
+      "timeline": "Since 2019",
+      "status": "current"
+    },
+    {
+      "action": "Supplier Clean Energy Program",
+      "details": "Over 250 suppliers have committed to 100 percent renewable electricity for Apple production.",
+      "impact": "The 13.7 gigawatts of renewable energy procured by suppliers and online in Apple’s supply chain generated 23.7 million megawatt-hours of clean energy, avoiding 17.4 million metric tons of carbon emissions — a 23 percent increase over 2021.",
+      "timeline": "As of March 2023",
+      "status": "current"
+    },
+    {
+      "action": "Invested in nearly 500 megawatts of solar and wind projects in China and Japan",
+      "details": "To cover emissions from suppliers that we don’t contract with directly.",
+      "impact": null,
+      "timeline": "To date",
+      "status": "completed"
+    },
+    {
+      "action": "Investments in energy storage",
+      "details": "Invested in utility-scale storage in California and in research on new energy storage technologies.",
+      "impact": null,
+      "timeline": "Ongoing",
+      "status": "current"
+    },
+    {
+      "action": "California Flats storage project",
+      "details": "Grid-scale battery energy storage system capable of storing 240 megawatt-hours of electricity.",
+      "impact": "Supports the 130-megawatt California Flats solar farm by storing excess energy generated during the day and deploying it when it’s most needed.",
+      "timeline": "Became operational in 2021",
+      "status": "completed"
+    },
+    {
+      "action": "Biological methanation research at Aarhus University, Denmark",
+      "details": "Explores the production of synthetic methane for storage in the existing gas grid, using bacteria to consume hydrogen produced from excess renewable energy and captured carbon dioxide.",
+      "impact": null,
+      "timeline": "Ongoing",
+      "status": "current"
+    },
+    {
+      "action": "China Clean Energy Fund",
+      "details": "Enables Apple and our suppliers to invest in clean energy.",
+      "impact": "As of March 2023, the fund has invested in over 650 megawatts of renewable electricity projects, with nearly 100 percent of those investments online.",
+      "timeline": "As of March 2023",
+      "status": "current"
+    },
+    {
+      "action": "Invested in the 320-megawatt IP Radian solar project in Brown County, Texas",
+      "details": "Developing large-scale solar and wind projects in the U.S. and Europe.",
+      "impact": null,
+      "timeline": "Underway",
+      "status": "current"
+    },
+    {
+      "action": "Clean Energy Charging",
+      "details": "Optimizes iPhone charging to reduce carbon by charging when the grid is using cleaner energy sources.",
+      "impact": null,
+      "timeline": "Available in the United States in fall 2022",
+      "status": "current"
+    },
+    {
+      "action": "Power for Impact program",
+      "details": "Funds clean energy projects that are mutually beneficial — local communities and organizations get access to cost-effective energy, and Apple retains the environmental attributes of each project.",
+      "impact": null,
+      "timeline": "Launched in 2019",
+      "status": "current"
+    },
+    {
+      "action": "Invested in ELYSIS",
+      "details": "Joint venture to commercialize patented technology that eliminates direct greenhouse gas emissions from the traditional smelting process of aluminum.",
+      "impact": "Commercial-purity aluminum used in iPhone SE and 16-inch MacBook Pro is the first to be manufactured without creating any direct carbon emissions during the smelting process.",
+      "timeline": "Since 2018",
+      "status": "current"
+    },
+    {
+      "action": "Partnering with manufacturers to prevent F-GHGs from being released",
+      "details": "Switching to alternative input gases, optimizing production processes to use and emit fewer F-GHGs, and by installing gas abatement tools.",
+      "impact": null,
+      "timeline": "Ongoing",
+      "status": "current"
+    },
+    {
+      "action": "Shifting to shipping modes that are less carbon-intensive",
+      "details": "Using ocean transport instead of air transport whenever possible.",
+      "impact": "Shipping an item by ocean instead of on an airplane reduces transportation-related emissions by 95 percent.",
+      "timeline": "2022",
+      "status": "current"
+    },
+    {
+      "action": "Piloted a heavy-duty truck fueled by hydrogen in Europe",
+      "details": "Working with suppliers to use alternative fuels and electric vehicles.",
+      "impact": null,
+      "timeline": "2022",
+      "status": "completed"
+    },
+    {
+      "action": "Incentivizing the use of electric vehicles",
+      "details": "Offering more than 1670 EV charging stations and 3200 ports across U.S.-based campuses.",
+      "impact": null,
+      "timeline": "Ongoing",
+      "status": "current"
+    },
+    {
+      "action": "Launched the Restore Fund",
+      "details": "Partnered with Conservation International and Goldman Sachs to launch the Restore Fund.",
+      "impact": "Closed over $100 million in projects that forecast to remove over one million metric tons of carbon starting in 2025.",
+      "timeline": "2021",
+      "status": "current"
+    },
+    {
+      "action": "Expanded the Restore Fund",
+      "details": "Committed additional funds — up to $200 million — that will be managed by Climate Asset Management.",
+      "impact": null,
+      "timeline": "2023",
+      "status": "planned"
+    }
+  ],
+  "total_unique_actions": 34,
+  "company": "apple",
+  "source_file": "reports\\apple.pdf",
+  "chunks_processed": 2,
+  "total_chunks": 9
+}
