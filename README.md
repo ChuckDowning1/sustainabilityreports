@@ -1,6 +1,6 @@
-# ESo-Sustainable: Sustainability Report Analyzer
+# Sustainability Reports Analyzer
 
-This project analyzes corporate sustainability reports to extract actions companies are taking to reduce their carbon emissions. It uses Google's Gemini Flash 2.0 model to process text and provide structured insights.
+This project analyzes corporate sustainability reports to extract actions companies are taking to reduce their carbon emissions. It uses Google's Gemini model to process text and provide structured insights.
 
 ## Features
 
@@ -22,8 +22,8 @@ This project analyzes corporate sustainability reports to extract actions compan
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/ESo-Sustainable.git
-   cd ESo-Sustainable
+   git clone https://github.com/ChuckDowning1/sustainabilityreports.git
+   cd sustainabilityreports
    ```
 
 2. Install dependencies:
@@ -115,6 +115,10 @@ The tool generates two types of output files for each processed report:
 - **API Key Issues**: Ensure your `.env` file contains a valid Google API key
 - **PDF Processing Errors**: Check that the PDF is not password-protected
 - **JSON Parsing Errors**: The model may occasionally return improperly formatted responses; try processing the report again
+
+## GitHub Repository
+
+This project is available on GitHub at [ChuckDowning1/sustainabilityreports](https://github.com/ChuckDowning1/sustainabilityreports).
 
 ## License
 
